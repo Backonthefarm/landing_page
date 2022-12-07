@@ -1,2 +1,3 @@
 # landing_page
-My first landing page
+
+My first landing page.
