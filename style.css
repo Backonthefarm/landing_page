@@ -113,6 +113,12 @@ body {
   cursor: pointer;
 }
 
+.b1info {
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
+
 .b1container:hover {
   width: 250px;
   height: 250px;
