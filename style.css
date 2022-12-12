@@ -41,6 +41,7 @@ body {
   padding-right: 30px;
   color: rgb(255, 255, 255);
   font-weight: 500;
+  padding-left: 30px;
 }
 
 .hLink {
@@ -50,6 +51,7 @@ body {
 .hl {
   text-decoration: none;
   color: rgb(255, 255, 255);
+  padding-right: 10px;
 }
 
 .section1 {
